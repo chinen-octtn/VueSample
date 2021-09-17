@@ -1,4 +1,4 @@
-Vue.js Sample
+# Vue.js Sample
 
 [v-okinawa Meetup #5 LT大会](https://v-okinawa.connpass.com/event/223357/)の資料です。
 
@@ -10,9 +10,9 @@ Vue.js Sample
 
 下記の手順でも同じファイルが用意できます。
 
-```
-script版sample
+## script版sample
 
+```
 assets/
   ├─ index.html・・・CDNもしくは、ダウンロードしたVue.jsファイルとapp.jsを読み込む
   │
@@ -20,9 +20,9 @@ assets/
 
 ```
 
-```
-Vite版sample
+## Vite版sample
 
+```
 vite/
 
 // インストール
@@ -38,9 +38,9 @@ npm run build
 ```
 
 
-```
-Nuxt版sample
+## Nuxt版sample
 
+```
 nuxt/
 
 // インストール
